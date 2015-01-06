@@ -1,8 +1,8 @@
-## ENTER TALK NAME HERE
+## Talk Starter
 
 This are the slides for the talk WHAT TALK?
 
-You can see them at http://mgonto.github.io/enter-talk-name-here
+You can see them at http://mgonto.github.io/talk-starter
 
 ## Thanks
 
