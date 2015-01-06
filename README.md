@@ -1,8 +1,8 @@
-## Stop wasting developers time! How to create good documentation?
+## ENTER TALK NAME HERE
 
-This are the slides for the talk I'll be doing at ForwardJS.
+This are the slides for the talk WHAT TALK?
 
-You can see them at http://mgonto.github.io/how-to-create-good-documentation-talk
+You can see them at http://mgonto.github.io/enter-talk-name-here
 
 ## Thanks
 
