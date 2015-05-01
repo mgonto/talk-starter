@@ -432,6 +432,15 @@ section .firefoxos {
   display: none;
 }
 
+.inline .bespoke-bullet.bespoke-bullet-active {
+  display: inline;
+}
+
+.block .bespoke-bullet.bespoke-bullet-active {
+  display: inline;
+}
+
+
 .fake-list{
   width: 75%;
   margin: 0 auto;
